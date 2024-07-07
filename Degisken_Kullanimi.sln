@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degisken_Kullanimi", "Degisken_Kullanimi\Degisken_Kullanimi.csproj", "{2241A917-8FA8-41D9-A590-571C0176877C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degisken_Kullanimi2", "Degisken_Kullanimi2\Degisken_Kullanimi2.csproj", "{5B1340DE-53A6-4264-83D5-A6DFFA68A494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2241A917-8FA8-41D9-A590-571C0176877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2241A917-8FA8-41D9-A590-571C0176877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2241A917-8FA8-41D9-A590-571C0176877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2241A917-8FA8-41D9-A590-571C0176877C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1340DE-53A6-4264-83D5-A6DFFA68A494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1340DE-53A6-4264-83D5-A6DFFA68A494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1340DE-53A6-4264-83D5-A6DFFA68A494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1340DE-53A6-4264-83D5-A6DFFA68A494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF0B310-8B29-4E1D-8637-6DD1F6572A4C}
+	EndGlobalSection
+EndGlobal
